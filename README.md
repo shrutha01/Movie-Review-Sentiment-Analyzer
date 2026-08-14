@@ -232,6 +232,4 @@ git push -u origin main
 default (see `.gitignore`) since they're large/generated files — regenerate
 them locally with the training instructions above.
 
-## 📄 License
 
-This project is provided for educational and portfolio purposes.
