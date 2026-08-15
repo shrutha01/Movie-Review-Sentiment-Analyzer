@@ -197,25 +197,7 @@ NEGATIVE
 Confidence: (shown live in the app after you run training)
 ```
 
-## 📸 Screenshots
 
-_Add screenshots of the Home, Batch Prediction, Model Performance, and
-Dataset Statistics pages here once you've run the app locally._
-
-```
-docs/screenshots/home.png
-docs/screenshots/batch.png
-docs/screenshots/performance.png
-docs/screenshots/dataset.png
-```
-
-## 🔮 Future Improvements
-
-- Add deep learning baselines (LSTM / DistilBERT) for comparison against classical ML.
-- Add explainability (e.g. LIME/SHAP) to highlight which words drove a prediction.
-- Support multi-class sentiment (e.g. star ratings) instead of binary.
-- Add automated tests (pytest) for the preprocessing and prediction pipeline.
-- Containerize with Docker for easier deployment.
 
 ## 📤 GitHub Usage
 
